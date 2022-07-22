@@ -1,4 +1,4 @@
-///Federico Maciel 51913844 fmaci1324@gmail.com / Gabriel Suárez 4.489.684-3 gabrielsf6@gmail.com / Santiago Dono 5.151.416-3 Donosantiago@gmail.com
+///Federico Maciel / Gabriel Suárez / Santiago Dono 
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
